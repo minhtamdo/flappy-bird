@@ -2,7 +2,6 @@
 
 ScreenHighScoreView::ScreenHighScoreView()
 {
-
 }
 
 void ScreenHighScoreView::setupScreen()

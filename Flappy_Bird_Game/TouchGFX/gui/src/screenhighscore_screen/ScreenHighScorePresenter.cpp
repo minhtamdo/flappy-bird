@@ -16,3 +16,13 @@ void ScreenHighScorePresenter::deactivate()
 {
 
 }
+
+void ScreenHighScorePresenter::UpdateImageX(int16_t x)
+{
+	model->update(x);
+}
+
+int16_t ScreenHighScorePresenter::GetImageX()
+{
+	return model->GetImageX();
+}

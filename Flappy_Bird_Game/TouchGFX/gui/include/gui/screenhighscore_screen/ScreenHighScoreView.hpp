@@ -12,6 +12,9 @@ public:
     virtual void setupScreen();
     virtual void tearDownScreen();
 protected:
+    int16_t localImageX;
+    Unicode::UnicodeChar scoreBuffer[3][10];; // bộ đệm cho số điểm
+
 };
 
 #endif // SCREENHIGHSCOREVIEW_HPP

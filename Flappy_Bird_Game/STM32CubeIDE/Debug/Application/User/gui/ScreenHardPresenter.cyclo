@@ -1,0 +1,7 @@
+../../TouchGFX/gui/include/gui/screenhard_screen/ScreenHardPresenter.hpp:28:13:ScreenHardPresenter::~ScreenHardPresenter()	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenhard_screen/ScreenHardPresenter.cpp:10:6:virtual void ScreenHardPresenter::activate()	1
+../../TouchGFX/gui/include/gui/screenhard_screen/ScreenHardPresenter.hpp:28:13:virtual ScreenHardPresenter::~ScreenHardPresenter()	1
+../../TouchGFX/gui/include/gui/screenhard_screen/ScreenHardPresenter.hpp:28:13:virtual void* ScreenHardPresenter::_ZThn4_N19ScreenHardPresenterD1Ev()	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenhard_screen/ScreenHardPresenter.cpp:4:1:ScreenHardPresenter::ScreenHardPresenter(ScreenHardView&)	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenhard_screen/ScreenHardPresenter.cpp:20:6:void ScreenHardPresenter::UpdateImageX(int16_t)	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenhard_screen/ScreenHardPresenter.cpp:25:9:int16_t ScreenHardPresenter::GetImageX()	1

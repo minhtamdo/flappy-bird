@@ -33,7 +33,7 @@ static uint8_t rand_n = 0;
 ScreenMediumView::ScreenMediumView()
 {
 	tickCount = 0;
-
+}
 
 void ScreenMediumView::setupScreen()
 {
@@ -157,5 +157,6 @@ void ScreenMediumView::handleTickEvent(){
 	invalidate();
 
 }
+
 
 

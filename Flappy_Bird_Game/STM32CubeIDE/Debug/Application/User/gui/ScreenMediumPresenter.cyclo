@@ -1,0 +1,7 @@
+../../TouchGFX/gui/include/gui/screenmedium_screen/ScreenMediumPresenter.hpp:28:13:ScreenMediumPresenter::~ScreenMediumPresenter()	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenmedium_screen/ScreenMediumPresenter.cpp:10:6:virtual void ScreenMediumPresenter::activate()	1
+../../TouchGFX/gui/include/gui/screenmedium_screen/ScreenMediumPresenter.hpp:28:13:virtual ScreenMediumPresenter::~ScreenMediumPresenter()	1
+../../TouchGFX/gui/include/gui/screenmedium_screen/ScreenMediumPresenter.hpp:28:13:virtual void* ScreenMediumPresenter::_ZThn4_N21ScreenMediumPresenterD1Ev()	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenmedium_screen/ScreenMediumPresenter.cpp:4:1:ScreenMediumPresenter::ScreenMediumPresenter(ScreenMediumView&)	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenmedium_screen/ScreenMediumPresenter.cpp:20:6:void ScreenMediumPresenter::UpdateImageX(int16_t)	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenmedium_screen/ScreenMediumPresenter.cpp:25:9:int16_t ScreenMediumPresenter::GetImageX()	1

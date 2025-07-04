@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/screenmenu_screen/ScreenMenuPresenter.hpp:28:13:ScreenMenuPresenter::~ScreenMenuPresenter()	0	static
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenmenu_screen/ScreenMenuPresenter.cpp:10:6:virtual void ScreenMenuPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/screenmenu_screen/ScreenMenuPresenter.hpp:28:13:virtual ScreenMenuPresenter::~ScreenMenuPresenter()	8	static
+../../TouchGFX/gui/include/gui/screenmenu_screen/ScreenMenuPresenter.hpp:28:13:virtual void* ScreenMenuPresenter::_ZThn4_N19ScreenMenuPresenterD1Ev()	0	static
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenmenu_screen/ScreenMenuPresenter.cpp:4:1:ScreenMenuPresenter::ScreenMenuPresenter(ScreenMenuView&)	0	static

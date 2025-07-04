@@ -16,3 +16,13 @@ void ScreenHardPresenter::deactivate()
 {
 
 }
+
+void ScreenHardPresenter::UpdateImageX(int16_t x)
+{
+	model->update(x);
+}
+
+int16_t ScreenHardPresenter::GetImageX()
+{
+	return model->GetImageX();
+}

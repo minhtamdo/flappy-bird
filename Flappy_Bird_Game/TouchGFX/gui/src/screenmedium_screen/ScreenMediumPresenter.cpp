@@ -26,4 +26,3 @@ int16_t ScreenMediumPresenter::GetImageX()
 {
 	return model->GetImageX();
 }
-

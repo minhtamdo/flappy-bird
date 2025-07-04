@@ -1,9 +1,0 @@
-../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
-../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyView.cpp:56:6:virtual void ScreenEasyView::tearDownScreen()	8	static
-../../TouchGFX/gui/include/gui/screeneasy_screen/ScreenEasyView.hpp:11:13:ScreenEasyView::~ScreenEasyView()	8	static
-../../TouchGFX/gui/include/gui/screeneasy_screen/ScreenEasyView.hpp:11:13:virtual ScreenEasyView::~ScreenEasyView()	8	static
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyView.cpp:31:1:ScreenEasyView::ScreenEasyView()	8	static
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyView.cpp:64:6:void ScreenEasyView::scoringFunct()	24	static
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyView.cpp:36:6:virtual void ScreenEasyView::setupScreen()	16	static
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyView.cpp:97:6:virtual void ScreenEasyView::handleTickEvent()	32	static

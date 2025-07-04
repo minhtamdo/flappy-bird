@@ -1,7 +1,0 @@
-../../TouchGFX/gui/include/gui/screeneasy_screen/ScreenEasyPresenter.hpp:28:13:ScreenEasyPresenter::~ScreenEasyPresenter()	1
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyPresenter.cpp:10:6:virtual void ScreenEasyPresenter::activate()	1
-../../TouchGFX/gui/include/gui/screeneasy_screen/ScreenEasyPresenter.hpp:28:13:virtual ScreenEasyPresenter::~ScreenEasyPresenter()	1
-../../TouchGFX/gui/include/gui/screeneasy_screen/ScreenEasyPresenter.hpp:28:13:virtual void* ScreenEasyPresenter::_ZThn4_N19ScreenEasyPresenterD1Ev()	1
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyPresenter.cpp:4:1:ScreenEasyPresenter::ScreenEasyPresenter(ScreenEasyView&)	1
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyPresenter.cpp:20:6:void ScreenEasyPresenter::UpdateImageX(int16_t)	1
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screeneasy_screen/ScreenEasyPresenter.cpp:25:9:int16_t ScreenEasyPresenter::GetImageX()	1

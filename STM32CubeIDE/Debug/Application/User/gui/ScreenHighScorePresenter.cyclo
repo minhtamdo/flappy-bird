@@ -1,0 +1,7 @@
+../../TouchGFX/gui/include/gui/screenhighscore_screen/ScreenHighScorePresenter.hpp:28:13:ScreenHighScorePresenter::~ScreenHighScorePresenter()	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenhighscore_screen/ScreenHighScorePresenter.cpp:10:6:virtual void ScreenHighScorePresenter::activate()	1
+../../TouchGFX/gui/include/gui/screenhighscore_screen/ScreenHighScorePresenter.hpp:28:13:virtual ScreenHighScorePresenter::~ScreenHighScorePresenter()	1
+../../TouchGFX/gui/include/gui/screenhighscore_screen/ScreenHighScorePresenter.hpp:28:13:virtual void* ScreenHighScorePresenter::_ZThn4_N24ScreenHighScorePresenterD1Ev()	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenhighscore_screen/ScreenHighScorePresenter.cpp:4:1:ScreenHighScorePresenter::ScreenHighScorePresenter(ScreenHighScoreView&)	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenhighscore_screen/ScreenHighScorePresenter.cpp:20:6:void ScreenHighScorePresenter::UpdateImageX(int16_t)	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenhighscore_screen/ScreenHighScorePresenter.cpp:25:9:int16_t ScreenHighScorePresenter::GetImageX()	1

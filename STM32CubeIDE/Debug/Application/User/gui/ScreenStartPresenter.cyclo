@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/screenstart_screen/ScreenStartPresenter.hpp:28:13:ScreenStartPresenter::~ScreenStartPresenter()	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenstart_screen/ScreenStartPresenter.cpp:10:6:virtual void ScreenStartPresenter::activate()	1
+../../TouchGFX/gui/include/gui/screenstart_screen/ScreenStartPresenter.hpp:28:13:virtual ScreenStartPresenter::~ScreenStartPresenter()	1
+../../TouchGFX/gui/include/gui/screenstart_screen/ScreenStartPresenter.hpp:28:13:virtual void* ScreenStartPresenter::_ZThn4_N20ScreenStartPresenterD1Ev()	1
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenstart_screen/ScreenStartPresenter.cpp:4:1:ScreenStartPresenter::ScreenStartPresenter(ScreenStartView&)	1

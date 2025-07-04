@@ -16,3 +16,14 @@ void ScreenMediumPresenter::deactivate()
 {
 
 }
+
+void ScreenMediumPresenter::UpdateImageX(int16_t x)
+{
+	model->update(x);
+}
+
+int16_t ScreenMediumPresenter::GetImageX()
+{
+	return model->GetImageX();
+}
+

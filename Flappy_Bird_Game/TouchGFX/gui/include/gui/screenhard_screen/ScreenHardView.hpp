@@ -11,7 +11,6 @@ public:
     virtual ~ScreenHardView() {}
     virtual void setupScreen();
     virtual void tearDownScreen();
-
 protected:
 };
 

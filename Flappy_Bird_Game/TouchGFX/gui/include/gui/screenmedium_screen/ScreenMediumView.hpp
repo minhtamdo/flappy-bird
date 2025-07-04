@@ -12,7 +12,13 @@ public:
     virtual void setupScreen();
     virtual void tearDownScreen();
 
+    virtual void handleTickEvent();
 protected:
-};
+        int16_t localImageX;
+        uint32_t tickCount;
+
+        void scoringFunct();
+        Unicode::UnicodeChar scoreBuffer[10]; // bộ đệm để chứa chuỗi
+    };
 
 #endif // SCREENMEDIUMVIEW_HPP

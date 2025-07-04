@@ -1,4 +1,5 @@
 #include <gui/screenhard_screen/ScreenHardView.hpp>
+
 ScreenHardView::ScreenHardView()
 {
 }
@@ -12,4 +13,3 @@ void ScreenHardView::tearDownScreen()
 {
     ScreenHardViewBase::tearDownScreen();
 }
-

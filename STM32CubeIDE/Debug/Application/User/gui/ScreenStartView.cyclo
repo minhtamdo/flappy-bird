@@ -1,8 +1,0 @@
-../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
-../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
-../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenstart_screen/ScreenStartView.cpp:13:6:virtual void ScreenStartView::tearDownScreen()	1
-../../TouchGFX/gui/include/gui/screenstart_screen/ScreenStartView.hpp:11:13:ScreenStartView::~ScreenStartView()	1
-../../TouchGFX/gui/include/gui/screenstart_screen/ScreenStartView.hpp:11:13:virtual ScreenStartView::~ScreenStartView()	1
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenstart_screen/ScreenStartView.cpp:3:1:ScreenStartView::ScreenStartView()	1
-C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/screenstart_screen/ScreenStartView.cpp:8:6:virtual void ScreenStartView::setupScreen()	1
